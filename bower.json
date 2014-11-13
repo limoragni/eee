@@ -1,8 +1,7 @@
 {
   "name": "eee",
   "version": "0.0.1",
-  "authors": [
-  ],
+  "authors": [],
   "ignore": [
     "**/.*",
     "node_modules",
@@ -13,6 +12,7 @@
   ],
   "dependencies": {
     "steroids-js": "3.x",
-    "ionic": "driftyco/ionic-bower#v1.0.0-beta.13"
+    "ionic": "driftyco/ionic-bower#v1.0.0-beta.13",
+    "d3": "~3.4.13"
   }
 }
